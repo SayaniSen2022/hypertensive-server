@@ -1,2 +1,5 @@
 # Hypertensive-server
-## test
+## database for hypertensive.io
+
+# Technologies used:
+## Php
